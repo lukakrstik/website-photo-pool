@@ -1,0 +1,78 @@
+<div class="card m-2" style="border: none;">
+	<a href="https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_6100.jpg?raw=true" data-fancybox="gallery">
+		<img class="card-img" src= "https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_6100%20Thumb.jpg?raw=true">
+	</a>
+</div>
+
+<div class="card m-2" style="border: none;">
+	<a href="https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_6112.jpg?raw=true" data-fancybox="gallery">
+		<img class="card-img" src= "https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_6112%20Thumb.jpg?raw=true">
+	</a>
+</div>
+
+<div class="card m-2" style="border: none;">
+	<a href="https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_6124.jpg?raw=true" data-fancybox="gallery">
+		<img class="card-img" src= "https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_6124%20Thumb.jpg?raw=true">
+	</a>
+</div>
+
+<div class="card m-2" style="border: none;">
+	<a href="https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_6141.jpg?raw=true" data-fancybox="gallery">
+		<img class="card-img" src= "https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_6141%20Thumb.jpg?raw=true">
+	</a>
+</div>
+
+<div class="card m-2" style="border: none;">
+	<a href="https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_6146.jpg?raw=true" data-fancybox="gallery">
+		<img class="card-img" src= "https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_6146%20Thumb.jpg?raw=true">
+	</a>
+</div>
+
+<div class="card m-2" style="border: none;">
+	<a href="https://github.com/lukakrstik/website-photo-pool/blob/master/images/Solunska%20Glava.jpg?raw=true" data-fancybox="gallery">
+		<img class="card-img" src= "https://github.com/lukakrstik/website-photo-pool/blob/master/images/Solunska%20Glava%20Thumb.jpg?raw=true">
+	</a>
+</div>
+
+<div class="card m-2" style="border: none;">
+	<a href="https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_4058.jpg?raw=true" data-fancybox="gallery">
+		<img class="card-img" src= "https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_4058%20Thumb.jpg?raw=true">
+	</a>
+</div>
+
+<div class="card m-2" style="border: none;">
+	<a href="https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_5312.jpg?raw=true" data-fancybox="gallery">
+		<img class="card-img" src= "https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_5312%20Thumb.jpg?raw=true">
+	</a>
+</div>
+
+<div class="card m-2" style="border: none;">
+	<a href="https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_5363.jpg?raw=true" data-fancybox="gallery">
+		<img class="card-img" src= "https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_5363%20Thumb.jpg?raw=true">
+	</a>
+</div>
+
+<div class="card m-2" style="border: none;">
+	<a href="https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_5537.jpg?raw=true" data-fancybox="gallery">
+		<img class="card-img" src= "https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_5537%20Thumb.jpg?raw=true">
+	</a>
+</div>
+
+<div class="card m-2" style="border: none;">
+	<a href="https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_5947.jpg?raw=true" data-fancybox="gallery">
+		<img class="card-img" src= "https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_5947%20Thumb.jpg?raw=true">
+	</a>
+</div>
+
+<div class="card m-2" style="border: none;">
+	<a href="https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_5957.jpg?raw=true" data-fancybox="gallery">
+		<img class="card-img" src= "https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_5957%20Thumb.jpg?raw=true">
+	</a>
+</div>
+
+<div class="card m-2" style="border: none;">
+	<a href="https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_5957.jpg?raw=true" data-fancybox="gallery">
+		<img class="card-img" src= "https://github.com/lukakrstik/website-photo-pool/blob/master/images/DSC_5957%20Thumb.jpg?raw=true">
+	</a>
+</div>
+
